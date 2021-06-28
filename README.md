@@ -1,5 +1,10 @@
 # Veeam Software Тестовое Задание
 
+## Язык
+    Python 3.9
+
+## Копировать репозиторий
+    git clone https://github.com/cement-hools/veeam_qa.git
 
 ## Установить допольнительные библиотеки
     pip install -r requirements.txt
